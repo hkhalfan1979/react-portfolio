@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 
 function MainPage() {
   return (
-    <div className="row" id="/">
+    <div className="row m-0" id="/">
       <NavBar />
       <h3>intro section</h3>
     </div>

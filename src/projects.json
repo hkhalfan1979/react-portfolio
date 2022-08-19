@@ -4,7 +4,16 @@
         "image": "https://raw.githubusercontent.com/hkhalfan1979/entertainment-hub/main/assets/images/landingpage.png",
         "about": 
             "The purpose of our application is to merge two seperate API's (Application Program Interface) so the user can have access to detailed information, from the movie/tv show down to the very album information that is present within the movie. We took this concept and utilized the Spotify API and Movie/TV Show DB API to interact with each in our code. The goal was to display the data from each individual API through the users click interaction.",
-        "technologies": ["Node", "Express", "Handlebars", "MySQL", "Google Cloud - Maps & Places APIs", "Bootstrap", "Adobe Illustrator"],
+        "technologies": ["HTML", "Javascript", "Tailwind CSS", "CSS", "API's"],
+        "repo": "https://github.com/hkhalfan1979/entertainment-hub",
+        "site": "https://hkhalfan1979.github.io/entertainment-hub/"
+    },
+    {
+        "title": "Entertainment hub",
+        "image": "https://raw.githubusercontent.com/hkhalfan1979/entertainment-hub/main/assets/images/landingpage.png",
+        "about": 
+            "The purpose of our application is to merge two seperate API's (Application Program Interface) so the user can have access to detailed information, from the movie/tv show down to the very album information that is present within the movie. We took this concept and utilized the Spotify API and Movie/TV Show DB API to interact with each in our code. The goal was to display the data from each individual API through the users click interaction.",
+        "technologies": ["HTML", "Javascript", "Tailwind CSS", "CSS", "API's"],
         "repo": "https://github.com/hkhalfan1979/entertainment-hub",
         "site": "https://hkhalfan1979.github.io/entertainment-hub/"
     }
