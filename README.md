@@ -1,1 +1,3 @@
-# react-portfolio
+# React Portfolio
+
+Build pofolio using react
