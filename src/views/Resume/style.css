@@ -1,0 +1,27 @@
+.viewFour {
+     background-color: #152a42;
+ }
+
+ #resume a {
+     background: rgba(83,44,134,1);
+     color: #f5f5f5;
+     border-radius: 5px;
+     display: block;
+     margin: auto;
+     width: 90%;
+     transition: 0.3s ease-in-out;
+ }
+
+ #resume a:hover {
+     background: rgba(189,93,90,1);
+ }
+ 
+ #resumeTitle {
+     margin-top: 10vh;
+     margin-bottom: 8vh;
+     padding: 0;
+ }
+ 
+ h3#resumeTitle:hover {
+     color: #d7a573;
+ }

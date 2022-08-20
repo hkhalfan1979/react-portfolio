@@ -5,9 +5,11 @@ import ResumePDF from "../../components/ResumePDF/Hasnain_Khalfan_Resume_2022.pd
 function Resume() {
 
     return (
-      <div id="resume">
+      <div className="viewFour" id="resume">
         <div className="row">
-         <h3>resume download link</h3>>
+          <div className="col-md-12 text-center">
+            <a href={ResumePDF} target="_blank" className="resLink"><h3 className="viewTitle" id="resumeTitle">RESUME</h3></a>
+          </div>
         </div>
       </div>
     );
