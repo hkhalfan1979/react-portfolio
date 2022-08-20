@@ -14,8 +14,10 @@ function About() {
                     <h3 className="viewTitle" id="aboutTitle">ABOUT ME</h3>
                     <div className="row align-self-center bioText">
                         <p className="bio">Experienced Digital Marketing Manager with extensive experience building, maintaining, and running successful digital marketing campaigns. Bringing forth broad marketing knowledge, coupled with focused campaign experience. Adept at creating and implementing client-centered, successful campaigns, aimed at improving brand awareness and presence. Collaborative and creative manager accomplished at managing digital marketing presence content. Experienced in leading teams of marketing professionals to meet and exceed digital marketing goals.</p>
-                        <p className="bio"><span className="skillHeader">Some skills I bring to the table:</span>
-                            <ul className=" skillList text-center">
+                        <p className="bio"><span className="skillHeader">Some skills I bring to the table:</span></p>                        
+                        
+                    </div>
+                    <ul className=" skillList text-center">
                                 <li className="skill">Adobe Creative Suite</li>
                                 <li className="skill">JavaScript</li>
                                 <li className="skill">ReactJS</li>
@@ -24,9 +26,7 @@ function About() {
                                 <li className="skill">Express</li>
                                 <li className="skill">SQL</li>
                             </ul>
-                        </p>
-                        <p className="bio">Feel free to connect with me!</p>
-                    </div>
+                    <p className="bio">Feel free to connect with me!</p>
                 </div>
             </div>
         </div>

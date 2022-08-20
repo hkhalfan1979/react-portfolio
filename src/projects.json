@@ -2,19 +2,34 @@
     {
         "title": "Entertainment hub",
         "image": "https://raw.githubusercontent.com/hkhalfan1979/entertainment-hub/main/assets/images/landingpage.png",
-        "about": 
-            "The purpose of our application is to merge two seperate API's (Application Program Interface) so the user can have access to detailed information, from the movie/tv show down to the very album information that is present within the movie. We took this concept and utilized the Spotify API and Movie/TV Show DB API to interact with each in our code. The goal was to display the data from each individual API through the users click interaction.",
+        "about": "The purpose of our application is to merge two seperate API's (Application Program Interface) so the user can have access to detailed information, from the movie/tv show down to the very album information that is present within the movie. We took this concept and utilized the Spotify API and Movie/TV Show DB API to interact with each in our code. The goal was to display the data from each individual API through the users click interaction.",
         "technologies": ["HTML", "Javascript", "Tailwind CSS", "CSS", "API's"],
         "repo": "https://github.com/hkhalfan1979/entertainment-hub",
         "site": "https://hkhalfan1979.github.io/entertainment-hub/"
     },
     {
-        "title": "Entertainment hub",
-        "image": "https://raw.githubusercontent.com/hkhalfan1979/entertainment-hub/main/assets/images/landingpage.png",
-        "about": 
-            "The purpose of our application is to merge two seperate API's (Application Program Interface) so the user can have access to detailed information, from the movie/tv show down to the very album information that is present within the movie. We took this concept and utilized the Spotify API and Movie/TV Show DB API to interact with each in our code. The goal was to display the data from each individual API through the users click interaction.",
+        "title": "Weather Dashboard",
+        "image": "https://hkhalfan1979.github.io/my-portfolio/assets/images/field-gb93fa1cce_1920.jpg",
+        "about": "This application uses Ajax calls to a OpenWeather API to display current weather and 5-day forecast for cities around the world that are searchable by user.",
         "technologies": ["HTML", "Javascript", "Tailwind CSS", "CSS", "API's"],
-        "repo": "https://github.com/hkhalfan1979/entertainment-hub",
-        "site": "https://hkhalfan1979.github.io/entertainment-hub/"
+        "repo": "https://github.com/hkhalfan1979/weather-dashboard",
+        "site": "https://hkhalfan1979.github.io/weather-dashboard/"
+    },
+    {
+        "title": "Polite Mail",
+        "image": "https://polite-mail.herokuapp.com/images/logo-polite-mail.png",
+        "about": "Create an interactive site that allows users to choose a variety of badly worded (but honest) phrases, and turn it into a more appropriate email.",
+        "technologies": ["HTML", "Javascript", "Tailwind CSS", "CSS", "API's", "Handlebars, MVC", "Express", "NodeJS", "MYSQL"],
+        "repo": "https://github.com/SherrickM/polite-mail",
+        "site": "https://polite-mail.herokuapp.com/"
+    }
+    ,
+    {
+        "title": "Sum it up",
+        "image": "https://hkhalfan1979.github.io/my-portfolio/assets/images/field-gb93fa1cce_1920.jpg",
+        "about": "Create an interactive site that allows users to input large amounts of text and receive a simplified, summarized version of that text for quicker reading and study purposes.",
+        "technologies": ["HTML", "Javascript", "Tailwind CSS", "CSS", "API's", "Handlebars, MVC", "Express", "NodeJS", "Graphql", "React", "Mongo db"],
+        "repo": "https://github.com/SherrickM/sum-it-up",
+        "site": "https://sum-it-up2.herokuapp.com/"
     }
 ]

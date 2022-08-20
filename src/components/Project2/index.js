@@ -14,14 +14,14 @@ function Project2() {
           <div className="col-sm text-center">
             <a className="repoLink" href={project.repo} target="_blank">
               <button type="button" className="btn btn-info repoBtn">
-              <i class="fa-brands fa-github"></i> Code
+              <i className="fa-brands fa-github"></i> Code
               </button>
             </a>
           </div>
           <div className="col-sm text-center">
             <a className="siteLink" href={project.site} target="_blank">
               <button type="button" className="btn btn-info siteBtn">
-              <i class="fa-solid fa-link"></i> Website
+              <i className="fa-solid fa-link"></i> Website
               
               </button>
             </a>
@@ -32,7 +32,7 @@ function Project2() {
       return (
       <div className="row">
         <div className="col-sm">
-        <a className="siteLink" href={project.site} target="_blank"><button type="button" className="btn btn-info siteBtn"><i class="fa-solid fa-link"></i> Website</button></a>
+        <a className="siteLink" href={project.site} target="_blank"><button type="button" className="btn btn-info siteBtn"><i className="fa-solid fa-link"></i> Website</button></a>
         </div>
       </div>
       );

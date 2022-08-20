@@ -5,7 +5,12 @@ import Project2 from "../../components/Project2";
 function Projects() {
 
     return (
-        <div id="projects">    
+        <div className="viewTwo" id="projects">
+            <div className="row">
+                <div className="col-md">
+                    <h3 className="viewTitle" id="projectsTitle">MY PROJECTS</h3>
+                </div>
+            </div>
             <div className="row">
                 <Project2 />
             </div>

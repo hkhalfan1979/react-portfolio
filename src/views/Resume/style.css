@@ -10,6 +10,7 @@
      margin: auto;
      width: 90%;
      transition: 0.3s ease-in-out;
+     max-width: 400px;
  }
 
  #resume a:hover {
@@ -20,8 +21,5 @@
      margin-top: 10vh;
      margin-bottom: 8vh;
      padding: 0;
- }
- 
- h3#resumeTitle:hover {
-     color: #d7a573;
+     color: inherit;
  }
