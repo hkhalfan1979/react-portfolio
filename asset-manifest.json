@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.af71bd1b.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b048ba93.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b048ba93.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.476b97d1.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.476b97d1.js.map",
-    "static/js/2.2e909a11.chunk.js": "/react-portfolio/static/js/2.2e909a11.chunk.js",
-    "static/js/2.2e909a11.chunk.js.map": "/react-portfolio/static/js/2.2e909a11.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.8fa4fe57.css",
+    "main.js": "/react-portfolio/static/js/main.48172503.js",
+    "static/media/Hasnain_Khalfan_Resume_2022.pdf": "/react-portfolio/static/media/Hasnain_Khalfan_Resume_2022.4c98f0030b977fe6bbd7.pdf",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.5bf1830156162d413f23a6e6fe0df50d.js": "/react-portfolio/precache-manifest.5bf1830156162d413f23a6e6fe0df50d.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.af71bd1b.chunk.css.map": "/react-portfolio/static/css/main.af71bd1b.chunk.css.map",
-    "static/js/2.2e909a11.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2e909a11.chunk.js.LICENSE.txt",
-    "static/media/Hasnain_Khalfan_Resume_2022.pdf": "/react-portfolio/static/media/Hasnain_Khalfan_Resume_2022.e6713b52.pdf"
+    "main.8fa4fe57.css.map": "/react-portfolio/static/css/main.8fa4fe57.css.map",
+    "main.48172503.js.map": "/react-portfolio/static/js/main.48172503.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.476b97d1.js",
-    "static/js/2.2e909a11.chunk.js",
-    "static/css/main.af71bd1b.chunk.css",
-    "static/js/main.b048ba93.chunk.js"
+    "static/css/main.8fa4fe57.css",
+    "static/js/main.48172503.js"
   ]
 }
